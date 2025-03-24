@@ -1,7 +1,7 @@
 class demo{
 	public static void main(String[] args)
 	{
-		int num = 10;
+		int num = 3;
 
 		if (num % 2 == 0) {
 
